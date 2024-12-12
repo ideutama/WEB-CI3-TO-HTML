@@ -1,0 +1,4 @@
+Tujuan dibuatnya :
+1. Membuat backend untuk membuat template HTML 
+2. Dapat membuat template secara otomatis
+3. Mempermudah untuk membuat Website HTML 
